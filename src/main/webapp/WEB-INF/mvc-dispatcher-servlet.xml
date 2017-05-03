@@ -1,8 +1,8 @@
-<beans xmlns="http://www.springframework.org/schema/beans"
-       xmlns:mvc="http://www.springframework.org/schema/mvc"
+<beans xmlns:mvc="http://www.springframework.org/schema/mvc"
        xmlns:context="http://www.springframework.org/schema/context"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:security="http://www.springframework.org/schema/security"
+       xmlns="http://www.springframework.org/schema/beans"
        xsi:schemaLocation="
         http://www.springframework.org/schema/beans
         http://www.springframework.org/schema/beans/spring-beans.xsd
@@ -23,10 +23,10 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
+
     <security:global-method-security pre-post-annotations="enabled">
         <security:protect-pointcut expression="execution(* tutorial.rest.mvc.*.*(..))"
                                    access="ROLE_DUMMY"/>
     </security:global-method-security>
-
 
 </beans>

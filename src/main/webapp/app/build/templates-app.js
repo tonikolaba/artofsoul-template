@@ -382,7 +382,7 @@ angular.module("home/home.tpl.html", []).run(["$templateCache", function($templa
     "  <ul class=\"list-inline social-buttons\">\n" +
     "    <li>\n" +
     "      <iframe \n" +
-    "        src=\"http://ghbtns.com/github-btn.html?user=ngbp&amp;repo=ngbp&amp;type=watch&amp;count=true\" \n" +
+    "        src=\"http://ghbtns.com/github-btn.html?user=tonikolaba&amp;repo=artofsoul-template&amp;type=watch&amp;count=true\" \n" +
     "        allowtransparency=\"true\" \n" +
     "        frameborder=\"0\" \n" +
     "        scrolling=\"0\" \n" +
@@ -392,7 +392,7 @@ angular.module("home/home.tpl.html", []).run(["$templateCache", function($templa
     "    </li>\n" +
     "    <li>\n" +
     "      <iframe \n" +
-    "        src=\"http://ghbtns.com/github-btn.html?user=ngbp&amp;repo=ngbp&amp;type=fork&amp;count=true\" \n" +
+    "        src=\"http://ghbtns.com/github-btn.html?user=tonikolaba&amp;repo=artofsoul-template&amp;type=fork&amp;count=true\" \n" +
     "        allowtransparency=\"true\" \n" +
     "        frameborder=\"0\" \n" +
     "        scrolling=\"0\" \n" +
