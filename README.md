@@ -8,6 +8,8 @@ ArtofSoul Template is Spring & AngularJS Web.
 
 Developted by [IntelliJ IDE](https://www.jetbrains.com/idea/) (can use even on Eclipse). Include: AngularJS, Spring Boot, Tomcat server, Spring Security, Bootstarp, JUnit, Mockito, spring HATEOAS, Spring Exceptions, JSON annotations, H2 Database Engine, hibernate, DBCP, nodejs, gruntjs, bower and more....
 
+![Alt text](https://github.com/tonikolaba/artofsoul-template/blob/master/webpage.gif?raw=true"ArtofSoul")
+
 
 ### Installing & Running
 
@@ -43,6 +45,6 @@ Have Fun!
 
 * **Toni Kolaba** - *Initial work* - [tonikolaba](https://github.com/tonikolaba)
 
-![Alt text](https://github.com/tonikolaba/aos-ArtistWebpage/blob/master/img/ArtOfSoul.png?raw=true "ArtofSoul")
+![Alt text](https://github.com/tonikolaba/aos-ArtistWebpage/blob/master/img/ArtOfSoul.png?raw=true"ArtofSoul")
 
 
