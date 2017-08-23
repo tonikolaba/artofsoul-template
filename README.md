@@ -41,10 +41,11 @@ Have Fun!
 * [GruntJS](https://gruntjs.com/getting-started) - GruntJS
 
 
-## Authors
+## Author
 
-* **Toni Kolaba** - *Initial work* - [tonikolaba](https://github.com/tonikolaba)
+* [tonikolaba](https://github.com/tonikolaba)
 
-![Alt text](https://github.com/tonikolaba/aos-ArtistWebpage/blob/master/img/ArtOfSoul.png?raw=true"ArtofSoul")
+![Alt text](https://github.com/tonikolaba/download/blob/master/info/artofsoullogoVOG.png?raw=true"ArtofSoul")
+
 
 
