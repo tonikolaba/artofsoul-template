@@ -45,7 +45,7 @@ Have Fun!
 
 * [tonikolaba](https://github.com/tonikolaba)
 
-![Alt text](https://github.com/tonikolaba/download/blob/master/info/artofsoullogoVOG.png?raw=true"ArtofSoul")
+![Alt text](https://github.com/tonikolaba/download/blob/master/info/artofsoullogoNewVOG.png?raw=true"ArtofSoul")
 
 
 
